@@ -5,6 +5,7 @@ edition = "2024"
 authors = ["Marcus Cvjeticanin <mjovanc@icloud.com>"]
 description = " A Zed extension for decoding and validating JWT tokens in buffers."
 repository = "https://github.com/mjovanc/zed-jwt"
+license = "MIT"
 
 [lib]
 crate-type = ["cdylib"]
