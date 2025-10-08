@@ -1,6 +1,6 @@
 [package]
 name = "zed-jwt"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2024"
 authors = ["Marcus Cvjeticanin <mjovanc@icloud.com>"]
 description = " A Zed extension for decoding and validating JWT tokens."

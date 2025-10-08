@@ -1,6 +1,6 @@
 id = "jwt"
 name = "JWT"
-version = "0.1.0"
+version = "0.1.2"
 schema_version = 1
 authors = ["Marcus Cvjeticanin <mjovanc@icloud.com>"]
 description = "Validate and decode JWT tokens for Zed"
