@@ -7,5 +7,5 @@ description = "Validate and decode JWT tokens for Zed"
 repository = "https://github.com/mjovanc/zed-jwt"
 
 [slash_commands.jwt]
-description = "JWT tools: decode or verify tokens"
+description = "JWT tools: Use 'decode <token>' or 'verify <token> <key>'"
 requires_argument = true
